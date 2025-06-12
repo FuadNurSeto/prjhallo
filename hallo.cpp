@@ -1,8 +1,10 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
-  cout << "Poliban Juara";
-  cout << "Tutor Dek";
-  return 0;
+    // Inisialisasi array string untuk 5 nama
+    string nama[5];
+    
+    return 0;
 }
